@@ -10,7 +10,7 @@ window.location = "home_page.html"
 
 function redirect_home_2()
 {
-window.location = "home_page_2.html"
+window.location = "index.html"
 }
 
 function redirect_english()
