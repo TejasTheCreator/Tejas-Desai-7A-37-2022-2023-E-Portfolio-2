@@ -1,0 +1,95 @@
+#header
+{
+text-align: center;
+font-size: 45px;
+font-family: 'Lobster', cursive;
+}
+
+
+
+.menu {
+   list-style: none;
+   font-family: cursive; 
+   position: absolute;
+   top: 10px;
+   right: 30px;
+   z-index: 10;
+   cursor: pointer;
+   }
+
+#home{
+    background: linear-gradient( #1cffce 0%,  #1c1cff 100%);
+    position: absolute;
+    text-align:center;
+    height: 800px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+.links{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+#subject_name{
+    font-family: 'League Gothic', sans-serif;
+    text-decoration: underline;
+    font-size: 125px;
+    padding-bottom: 15px;
+}
+
+#header_activity{
+    font-family: 'Lora', serif;
+    text-decoration: underline;
+    font-size: 40px;
+    padding-bottom: 15px;
+}
+
+#activity_1_image{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+    height: 375px;
+    width: 675px;
+}
+
+#activity_2_image_1{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+    border-color: white;
+}
+
+#activity_2_image_2{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+    height: 600px;
+    width: 550px;
+}
+
+#math_image
+{
+    height: 350px;
+    width: 525px;
+    border-radius: 25px;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#information{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 21px;
+}

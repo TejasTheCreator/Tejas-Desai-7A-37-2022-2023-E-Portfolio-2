@@ -1,0 +1,121 @@
+#header
+{
+text-align: center;
+font-size: 45px;
+font-family: 'Lobster', cursive;
+}
+
+
+
+.menu {
+   list-style: none;
+   font-family: cursive; 
+   position: absolute;
+   top: 10px;
+   right: 30px;
+   z-index: 10;
+   cursor: pointer;
+   }
+
+#home{
+    background: linear-gradient( #1cffce 0%,  #1c1cff 100%);
+    position: absolute;
+    text-align:center;
+    height: 800px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+.links{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+#subject_name{
+    font-family: 'Noto Sans', sans-serif;
+    text-decoration: underline;
+    font-size: 120px;
+    padding-bottom: 15px;
+}
+
+#header_ma{
+    font-family: 'Lora', serif;
+    text-decoration: underline;
+    font-size: 40px;
+    padding-bottom: 15px;
+}
+
+#ma_1_image{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+}
+
+#ma_2_image{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+}
+
+#hindi_image
+{
+    height: 350px;
+    width: 525px;
+    border-radius: 25px;
+    border-width: 5px;
+    border-style: solid;
+}
+
+#ma_1_image{
+    height: 375px;
+    width: 525px;
+    border-radius: 25px;
+    border-width: 5px;
+    border-style: solid; 
+}
+
+#button_md
+{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 21px;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    background-color: #17cf9a;
+}
+
+
+#button_ma_2
+{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 21px;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    background-color: #f08e16;
+}
+
+#information{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 21px;
+}

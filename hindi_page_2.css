@@ -1,0 +1,139 @@
+#header
+{
+text-align: center;
+font-size: 45px;
+font-family: 'Lobster', cursive;
+border-width: 7px;
+border-style: dotted;
+border-color: #0ffae8;
+border-radius: 25px;
+background-color: #ff3219;
+}
+
+#header_activity{
+    font-family: 'Lora', serif;
+    text-decoration: underline;
+    font-size: 40px;
+    padding-bottom: 15px;
+}
+
+.menu {
+   list-style: none;
+   font-family: cursive; 
+   position: absolute;
+   top: 10px;
+   right: 30px;
+   z-index: 10;
+   cursor: pointer;
+   }
+
+#home{
+    background: linear-gradient(#ac08ff 0%,  #f5174f 100%);
+    position: absolute;
+    text-align:center;
+    height: 800px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+.links{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+#subject_name{
+    font-family: 'Noto Sans', sans-serif;
+    text-decoration: underline;
+    font-size: 120px;
+    padding-bottom: 15px;
+    background: linear-gradient(to right,#05FFD1,#23C90A);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+#hindi_image
+{
+    height: 350px;
+    width: 525px;
+    border-radius: 25px;
+    border-width: 5px;
+    border-style: solid;
+    box-shadow: 7px 5px 5px green;
+}
+
+#activity_1_image{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+    height: 600px;
+    width: 450px;
+    box-shadow: 7px 5px 5px yellow;
+}
+
+#activity_2_image{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+    height: 450px;
+    width: 600px;
+    box-shadow: 7px 5px 5px yellow;
+}
+
+#activity_3_image{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+    height: 600px;
+    width: 450px;
+    box-shadow: 7px 5px 5px yellow;
+}
+
+#activity_4_image{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+    height: 600px;
+    width: 450px;
+    box-shadow: 7px 5px 5px yellow;
+}
+
+#activity_5_image{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+    height: 600px;
+    width: 450px;
+    box-shadow: 7px 5px 5px yellow;
+}
+
+#activity_6_image{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 5px;
+    height: 600px;
+    width: 450px;
+    box-shadow: 7px 5px 5px yellow;
+}
+
+#information{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 21px;
+}
+
+#space{
+    height:700px;
+    width:100px;
+    opacity: 0.0;
+}
